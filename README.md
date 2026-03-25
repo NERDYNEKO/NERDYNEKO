@@ -1,12 +1,66 @@
-- 👋 Hi, I’m @NERDYNEKO
-- 👀 I’m interested in "CODING AND EXPLORAION"
-- 🌱 I’m currently learning "PYTHON AND WEB DEVELOPMENT"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: The first programmer was the daughter of a mad poet.
+# Hi, I'm Nabonita Roy
 
-<!---
-NERDYNEKO/NERDYNEKO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**3rd Year Engineering Student (Artificial Intelligence and Machine learning )**  
+Passionate about AI, problem solving, and building real-world projects.
+---
+## About Me
+- Exploring Artificial Intelligence and Machine Learning  
+- Practicing Data Structures & Algorithms (LeetCode)  
+- Building projects to gain practical experience  
+- Focused on consistency and continuous improvement  
+
+---
+**Languages**
+- Python  
+- C++  
+
+**AI / ML**
+- NumPy  
+- scikit-learn  
+- TensorFlow (Basics)  
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Google Colab
+---
+## Projects
+
+**Hospital Management System (C++)**
+- Object-Oriented backend system  
+- Designed for scalability and real-world structure  
+
+**Upcoming Projects**
+- Object Detection System  
+- RAG Chatbot (LangChain + UI)  
+
+---
+
+## Currently Learning
+- Data Structures & Algorithms  
+- Machine Learning (NPTEL - IIT Madras)  
+- End-to-End AI Project Development  
+---
+## Achievements
+- AIR 8 – National Entrepreneurship Challenge  
+- Contributor – GirlScript Summer of Code  
+- Finalist – Regional Level Competition (Mental Health Presentation)  
+- R&D Intern – Weppdev Technologies  
+---
+## Goals
+- Strengthen DSA problem-solving skills  
+- Build impactful AI-based projects  
+- Secure top tech internships  
+- Grow as an AI Engineer  
+
+---
+
+## Contact
+- LinkedIn:[www.linkedin.com/in/nabonita-roy-04r]  
+- Email:[nabonitaroy15345@gmail.com]
+
+---
+
+## Quote
+"Small progress every day leads to big results."
