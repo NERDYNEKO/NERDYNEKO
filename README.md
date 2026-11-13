@@ -17,6 +17,10 @@ class SoftwareEngineer:
 me = AIML Engineer ()
 me.say_hi()
 ```
+<p align="center">
+  <img src="" width="100" />
+</p>
+
 
 
 <p align="center">
