@@ -1,5 +1,24 @@
-<h1 align="center">Hi, I'm Nabonita Roy 👋</h1>
-<h3 align="center">AI/ML Engineer in the making — building Generative AI, Computer Vision & RAG systems that ship</h3>
+<h1 align="center">Hi, Namaste! I'm Nabonita Roy <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="65" alt="Cat GIF"></h1>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Nabonita Roy"
+        self.role = "AIML Engineer"
+        self.language_spoken = ["hindi", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = AIML Engineer ()
+me.say_hi()
+```
+
+
 <p align="center">
   <a href="https://linkedin.com/in/nabonita-roy-04r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nabonitaroy15345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
