@@ -1,4 +1,8 @@
-<h1 align="center">Hi, Namaste! I'm Nabonita Roy <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="65" alt="Cat GIF"></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NERDYNEKO/NERDYNEKO/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227%20%281%29.gif" alt="Nabinita Roy banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, Namaste! I'm Nabinita Roy <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" alt="Cat GIF"></h1>
 
 ```python
 #!/usr/bin/python
