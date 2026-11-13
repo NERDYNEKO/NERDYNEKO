@@ -2,7 +2,7 @@
   <img src="https://github.com/NERDYNEKO/NERDYNEKO/blob/main/Programmer%20Day%20-%20Porforever.gif?raw=true" alt="Programmer Day" width="50%" />
 </p>
 
-<h1 align="center">Hi, Namaste! I'm Nabonita Roy <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80" alt="Cat GIF"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hi, Namaste! I'm Nabonita Roy <img src="https://camo.githubusercontent.com/f4f5bdf6840c5eb4da59996db3edf3c161b6c513f2d47ea87587e0f8446323f9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80" alt="Cat GIF"></h1>
 
 ```python
 #!/usr/bin/python
