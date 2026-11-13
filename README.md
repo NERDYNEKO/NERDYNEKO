@@ -26,11 +26,13 @@ me.say_hi()
   <img src="https://github.com/NERDYNEKO/NERDYNEKO/blob/main/banner.gif?raw=true" alt="Nabinita Roy banner" width="100%" />
 </p>
 
+### Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/nabonita-roy-04r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nabonitaroy15345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Patent%20Published-Indian%20Patent%20Office-success?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/nabonita-roy-04r"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:nabonitary15345@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://github.com/NERDYNEKO"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NERDYNEKO&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
