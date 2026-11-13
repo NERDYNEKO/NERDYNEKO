@@ -21,6 +21,7 @@ class AIML Engineer:
 me = AIML Engineer ()
 me.say_hi()
 ```
+
 <p align="center">
   <img src="https://github.com/NERDYNEKO/NERDYNEKO/blob/main/banner.gif?raw=true" alt="Nabinita Roy banner" width="100%" />
 </p>
